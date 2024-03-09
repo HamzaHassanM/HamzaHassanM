@@ -1,14 +1,4 @@
-### Hi there 👋 I am Hamza
-
-
-
-
-
-- 🌱 I’m currently learning **Laravel , Symfony**
-
-- 👨‍💻 All of my projects are available at [https://github.com/HamzaHassanM](https://github.com/HamzaHassanM)
-
-- 💬 Ask me about **PHP , Laravel , MySQl , PostgreSQL**
+### Hi there 👋 I am >> Hamza
 
 
 
