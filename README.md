@@ -13,3 +13,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzahassanm&show_icons=true&locale=en&layout=compact" alt="hamzahassanm" /></p>
 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzahassanm&radius=16&theme=outrun&area=true&order=5" height="300" alt="activity-graph graph"  />
+
