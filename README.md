@@ -1,9 +1,9 @@
 <div align="center">
 
 # 👋 Hi, I'm Hamza Hassan
-### Senior Full-Stack Engineer • Open Source Package Author • Technical Content Creator
+### Senior Backend Engineer • Open Source Package Author • Technical Content Creator
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Full-Stack+Laravel+%26+PHP+Specialist;Author+of+laravel-social-auto-post;Creator+at+%22Let's+Laravel+with+Hamza%22;Advocate+of+Clean+Architecture+%26+SOLID)](https://github.com/HamzaHassanM)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Backend+Laravel+%26+PHP+Specialist;Author+of+laravel-social-auto-post;Creator+at+%22Let's+Laravel+with+Hamza%22;Advocate+of+Clean+Architecture+%26+SOLID)](https://github.com/HamzaHassanM)
 
 <p align="center">
   <a href="https://linkedin.com/in/hamzahassan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -60,14 +60,13 @@ composer require hamzahassanm/laravel-social-auto-post
 ### 🛠️ Tech Stack & Expertise
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis,js,ts,vue,tailwind,docker,git,linux,postman,githubactions,python" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis,docker,git,linux,postman,githubactions,python" alt="Tech Stack" />
 </div>
 
 <br>
 
 - **Backend & Core:** PHP (8.x), Laravel Ecosystem, RESTful APIs, OOP, Clean Code, SOLID Principles, Design Patterns
 - **Database & Architecture:** MySQL, PostgreSQL, Redis, Multi-Tenancy Architecture, Eloquent ORM, Performance & Query Optimization
-- **Frontend & UI:** JavaScript, TypeScript, Vue.js, Blade, TailwindCSS, HTML5/CSS3
 - **DevOps, Testing & Tooling:** Docker, Linux, Git & GitHub Actions, Snapcraft, Pest / PHPUnit, Postman, Composer
 
 ---
